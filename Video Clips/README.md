@@ -6,5 +6,9 @@ https://youtu.be/bamEnwQhgvw
 
 # Drone Console Output:
 https://youtu.be/8jHQrmbt_yE
+
 # Drone Altitude Test:
 https://youtu.be/sf0jlasuQvg
+
+# GUI Showcase:
+https://youtu.be/O87JZYX1tmg
