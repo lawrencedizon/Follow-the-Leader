@@ -1,11 +1,11 @@
 # Final Video: 
-https://www.youtube.com/watch?v=0KTo7E2q3Qk
+https://www.youtube.com/watch?v=zuv3xMudAs0
 
 # Drone Correct Heading Test:
-https://youtu.be/bamEnwQhgvw
+https://www.youtube.com/watch?v=-tqIezJet08
 
 # Drone Altitude Test:
-https://youtu.be/sf0jlasuQvg
+https://www.youtube.com/watch?v=thlDRC7Q_Vk
 
 # GUI Showcase:
-https://youtu.be/O87JZYX1tmg
+https://www.youtube.com/watch?v=qvbs4uQ-IEE
